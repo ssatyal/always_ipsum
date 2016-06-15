@@ -26,8 +26,8 @@ var string = '';
 
 button.on("click", function(){
   var number = $('input').val();
-
-  console.log(number);
+  addSunQuote(number);
+  quotesHere.html(string);
 })
 
 var addSunQuote = function(number){
