@@ -4,3 +4,5 @@ var data = {
     {"quote": "yes, it is"}
   ]
 }
+var number = document.getElementsByClassName('input');
+console.log(number);
