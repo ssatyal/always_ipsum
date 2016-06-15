@@ -12,7 +12,7 @@ var data = {
     {"quote": "Dayman, fighter of the Nightman, champion of the sun, you're a master of karate and friendship for everyone."},
     {"quote": "I will SMASH your face into a- into a jelly!"},
     {"quote": "I browned out that evening."},
-    {"quote": "Can I stop you, though? You keep using this word \"jabroni.\" And...it's awesome!"}
+    {"quote": "Can I stop you, though? You keep using this word \"jabroni.\" And...it's awesome!"},
     {"quote": "I got my Magnum condoms; I got my wad of hundreds. I'm ready to plow."}
     //{"quote": ""},
     //{"quote": ""},
