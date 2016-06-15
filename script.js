@@ -4,5 +4,10 @@ var data = {
     {"quote": "yes, it is"}
   ]
 }
-var number = document.getElementsByClassName('input');
-console.log(number);
+
+var button = $('button');
+
+button.on("click", function(){
+  var number = $('input').val();
+  console.log(number);
+})
