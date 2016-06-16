@@ -1,7 +1,6 @@
 var data = {
   "quotes": [
     {"quote": "RUM HAM! RUM HAM! I'm sorry rum ham! I'm sorry..."},
-    {"quote": "The DENNIS System."},
     {"quote": "You gotta pay the troll toll, if you wanna get into that boy's soul."},
     {"quote": "Is your cat making TOO MUCH NOISE ALL THE TIME?"},
     {"quote": "Wildcard, bitches! Yee-haw!"},
