@@ -60,5 +60,5 @@ var addSunQuote = function(number){
   for (var i = 0; i < number; i++){
     var random = Math.floor(Math.random() * data.quotes.length);
     string += (data.quotes[random].quote + ' ');
-  } console.log(string);
+  }
 }
