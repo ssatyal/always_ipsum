@@ -36,7 +36,7 @@ var data = {
     {"quote": "When was the last time we played night crawlers together Frank?"},
     {"quote": "'Cause if the girl said \"no\", then the answer obviously is \"no.\" But the thing is, is she's not gonna say \"no.\" She would never say \"no\", because of the implication."},
     {"quote": "I've got a confession: I'm in love with a man. \"What?\" I'm in love with a man. A man called God. Does that make me gay? Am I \"gay for God\"? You betcha."},
-    {"quote": "People's Knees."},
+    {"quote": "Cover your knees up if you're gonna be walking around everywhere."},
     {"quote": "Don't put regular steak, put milk-steak, she'll know what it is."},
     {"quote": "Flip, Flip, Flipadelphia!"},
     {"quote": "Dennis, if I was looking for safe I wouldn't be sticking my dick through a wall."},
