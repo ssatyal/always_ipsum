@@ -2,5 +2,19 @@
   background-image: url("http://i.imgur.com/mxkLVJV.jpg");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  position: relative;
+  height: 200px;
+  margin-bottom: 0;
+}
+.bar {
+  background-color: #000000;
+  height: 50px;
+  margin-top: 0;
+  text-align: center;
+}
+.bar > h2 {
+  font-family: 'Lobster';
+  color: #FFFFFF;
+  margin: 0 auto;
+  line-height: normal;
 }
