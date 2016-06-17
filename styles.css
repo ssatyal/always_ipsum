@@ -44,18 +44,20 @@ input {
 .greyscale {
   background-image: url("http://i.imgur.com/x0tFHJD.jpg?1");
   height: 400px;
-  background-position: 0 20px 0 0;
+  background-position: 0 500px 0 0;
   background-size: cover;
 }
 #ipsum {
   background: rgba(255, 255, 255, .6);
   border-radius: 10px;
 }
-i {
-  size: 20px;
+a {
+  font-size: 30px;
+  color: black;
 }
 a:hover {
   text-decoration: none;
+  color: #4B4B4B;
 }
 
 @font-face {
