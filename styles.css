@@ -52,17 +52,69 @@ input {
   border-radius: 10px;
 }
 a {
-  font-size: 30px;
   color: black;
+  border-radius: 25%;
+  transition: .5s;
 }
 a:hover {
   text-decoration: none;
-  color: #4B4B4B;
+  /*background-color: #f8c410;
+  border-radius: 5px;*/
 }
 
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 3px 3px 3px rgba(75,75,75,.5);
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+
+/* github button class*/
+.githubBtn{
+  text-align: center;
+    background: black;
+    color: white;
+}
+
+.githubBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f113" /* add github icon */
+}
+
+.githubBtn:hover{
+    color: #f8c410;
+    background: black;
+    border-color: #f8c410; /* change the border color on mouse hover */
+}
+#social {
+  text-align: center;
+  margin-top: 10px;
+}
 @font-face {
 font-family: 'textileregular';
 src: url('Textile.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
+}
+@media only screen and (max-width: 991px) {
+    #ipsum {
+      height: 320px;
+    }
+    #quoteshere{
+      height: 170px;
+    }
 }
