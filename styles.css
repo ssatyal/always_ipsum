@@ -1,3 +1,6 @@
+body {
+  background-color: #f8c410;
+}
 .jumbotron {
   background-image: url("http://i.imgur.com/mxkLVJV.jpg");
   background-size: cover;
@@ -58,10 +61,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  /*background-color: #f8c410;
-  border-radius: 5px;*/
 }
-
 
 .smGlobalBtn { /* global button class */
     display: inline-block;
