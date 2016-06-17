@@ -57,6 +57,7 @@ i {
 a:hover {
   text-decoration: none;
 }
+
 @font-face {
 font-family: 'textileregular';
 src: url('Textile.ttf') format('truetype');
